@@ -1,6 +1,6 @@
 # nasa_space_apps_lrmc
 Low Rank Matrix Completion by Proximal Gradient
-
+This is an example where YaleB-Dataset (of faces) is used.
 
 
 The implemented function is in

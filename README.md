@@ -8,11 +8,10 @@ The implemented function is in
 and uses auxiliary functions that are in
 - aux_functions.py
 
-The scripts that runs the function and stablish the parameters are
+The script that runs the function and stablish the parameters is
 - lrmc_test.py  
-You can run the .py to test the function.
 
-The script that generated the output images used in the comments is
+The script that generates the output images is
 - vizualization.py
 
 The code will use YaleB-Dataset.zip uncompressed in this directory, there is an empty folder to be replaced by the uncompressed one.

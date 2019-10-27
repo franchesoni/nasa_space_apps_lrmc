@@ -14,7 +14,6 @@ The script that runs the function and stablish the parameters is
 The script that generates the output images is
 - vizualization.py
 
-The code will use YaleB-Dataset.zip uncompressed in this directory, there is an empty folder to be replaced by the uncompressed one.
+The code will use YaleB-Dataset.zip uncompressed in this directory.
 
-The output data is in "data" folder. Exposed results will use this data. This folder is too large to be uploaded. 
 

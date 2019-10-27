@@ -1,6 +1,6 @@
 ## Feeling the data!
-Implementation of Low Rank Matrix Completion by Proximal Gradient
-And data visualization using t-distributed Stochastic Neighbor Embedding
+Implementation of Low Rank Matrix Completion by Proximal Gradient,
+and data visualization using t-distributed Stochastic Neighbor Embedding.
 There is an example of matrix completion where YaleB-Dataset (of faces) is used.
 Visualization examples use "Near Earth Comets" and "Meteorite_Landings" datasets,
 which were provided by NASA as example resources on SpaceApps challenge "Chasers of the lost Data".

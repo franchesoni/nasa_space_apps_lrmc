@@ -17,19 +17,21 @@ which were provided by NASA as example resources on SpaceApps challenge "Chasers
 ## Demo
 
 
-The implemented function is in
+The implemented function for Low Rank Matrix Completion is in
 - lrmc.py
 and uses auxiliary functions that are in
 - aux_functions.py
 
-The script that runs the function and stablish the parameters is
+The script that runs the function and establishes the parameters is:
 - lrmc_test.py  
+
+The code will use YaleB-Dataset.zip uncompressed in this directory.
 
 The script that generates the output images is
 - vizualization.py
 
 This can also be ran from the interactive notebook called "FEELING DATA.ipynb"
 
-The code will use YaleB-Dataset.zip uncompressed in this directory.
+
 
 

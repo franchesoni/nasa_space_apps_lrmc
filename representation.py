@@ -4,6 +4,13 @@ Script that that uses T-distributed stocastic neighbour embedding to create a vi
 author: Feeling the data
 """
 
+import numpy as np
+import pandas as pd
+from sklearn.manifold import TSNE, MDS
+import plotly.express as px
+from sklearn.preprocessing import StandardScaler, MinMaxScaler
+%matplotlib inline
+
 file = r"C:\Users\JuanElenter\Desktop\docs\feelingdata\Near-Earth_Comets_-_Orbital_Elements.csv"
 data = pd.read_csv(file)
 data = data.drop(labels=['ref', 'Object', 'Object_name'], axis='columns')

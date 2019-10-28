@@ -11,7 +11,7 @@ from sklearn.manifold import TSNE, MDS
 import plotly.express as px
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 
-file = '/home/riley/Downloads/Near-Earth_Comets_-_Orbital_Elements.csv'
+file = '/Near-Earth_Comets_-_Orbital_Elements.csv'
 data = pd.read_csv(file)
 data = data.drop(labels=['ref', 'Object', 'Object_name'], axis='columns')
 

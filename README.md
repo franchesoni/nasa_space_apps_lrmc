@@ -27,6 +27,7 @@ The script that runs the function and stablish the parameters is
 
 The script that generates the output images is
 - vizualization.py
+This can also be ran from the interactive notebook called "FEELING DATA.ipynb"
 
 The code will use YaleB-Dataset.zip uncompressed in this directory.
 
